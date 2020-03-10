@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css?family=Oswald&display=swap');
+body{
+    font-family:'Oswald', sans-serif;
+    font-size: 1.25rem;
+}
+#jumboOne{
+    background-image: url('./assets/brandmark-design.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 25vh;
+    background-color: white;
+    background-position: center;
+}
+#mainCon{
+    margin-top: 10%;
+    text-align: center;
+}
+#rightCol{
+    background-color: rgb(97, 97, 97);
+}
